@@ -192,6 +192,7 @@ src/
 │   └── use-cases/
 ├── domain/              # Lógica de negócio
 │   ├── entities/        # Entidades do domínio
+├   ├──enums/            # Enumerações
 │   ├── repositories/    # Interfaces de repositórios
 │   ├── services/        # Serviços de domínio
 │   └── value-objects/   # Objetos de valor
